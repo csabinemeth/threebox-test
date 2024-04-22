@@ -112,8 +112,8 @@ export default {
             // https://sketchfab.com/3d-models/metlife-building-32d3a4a1810a4d64abb9547bb661f7f3
             const scale = 2.5;
             const options = {
-              obj: "drone.obj",
-              type: "obj",
+              obj: "orb2.gltf",
+              type: "gltf",
               scale: { x: scale, y: scale, z: scale },
               units: "meters",
               rotation: { x: 90, y: -90, z: 0 },
